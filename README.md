@@ -1,6 +1,6 @@
 # 🚀 TaskFlow API
 
-[![Node.js CI/CD](https://github.com/Subhashit2406/taskflow-api/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Subhashit2406/taskflow-api/actions)
+[![Node.js CI/CD](https://github.com/Subhashit2406/taskflow-api-/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Subhashit2406/taskflow-api-/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-336791.svg)](https://www.postgresql.org/)
